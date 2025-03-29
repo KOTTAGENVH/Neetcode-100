@@ -1,2 +1,6 @@
 # Neetcode-100
-Bringing to you Neetcode 100 from NK
+Initialization Steps
+```
+cd "folder you need to navigate"
+node answer.js
+```
