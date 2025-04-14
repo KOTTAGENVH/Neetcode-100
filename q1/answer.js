@@ -1,3 +1,4 @@
+//YTB Link: https://youtu.be/9UtInBqnCgA?si=g0ptibfe1ROdgW7h
 //Answer 1
 let nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10];
 
