@@ -2,5 +2,5 @@
 Initialization Steps
 ```
 cd "folder you need to navigate"
-node answer.js
+node answer.js / python answer.py
 ```
